@@ -1,0 +1,20 @@
+{
+  "name": "imooc",
+  "authors": [
+    "Echo_lsx <1245447460@qq.com>"
+  ],
+  "description": "movie",
+  "main": "",
+  "keywords": [
+    "movie"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
